@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+.container{
+    min-height: 100vh;
+}
+header, footer{
+    background: #e0f2fe;
+    padding: 2rem;
+}
