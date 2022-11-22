@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.container{
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+header, footer{
+    background: #e0f2fe;
+    padding: 2rem;
+}
+/*Flexbox*/
+/* .container{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.main{
+    flex-grow: 1;
+} */
